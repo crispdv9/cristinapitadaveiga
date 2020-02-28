@@ -2,6 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
     <meta name="viewport" width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0>
     <style> body {padding: 0; margin: 0;} </style>
     <script src="p5.min.js"></script>
@@ -10,63 +12,121 @@
     <script src="sketch.js"></script>
     <link href="style.css" rel="stylesheet" type="text/css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Work+Sans:400,500,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
     <title>Cristina Pita da Veiga</title>
   </head>
-  <header class="container">
+  <header class="container-fluid">
   <div class="row">
-    <h1 class="col-sm-4">CRISTINA PITA DA VEIGA</h1>
-    <nav class="col-sm-8 text-right">
-      <p><a href="about.html">ABOUT</a></p>
-      <p><a href="contact.html">CONTACT</a></p>
-    </nav>
+    <h1 class="col-sm-3">Cristina PdV</h1>
+    <h2 class="col-md-offset-6 col-sm-1" id="about"><a href="about.html">About</a></h2>
+    <h2 class="col-sm-1" id="about"><a href="contact.html">Contact</a></h2>
+  </figure>
   </div>
-  <hr>
+  <div class="row">
+    <p class=" col-sm-4">Journalist and <br>Information Designer</p>
+
+</div>
+
 
 </header>
 <body>
-  <section class="container">
-<div class="row">
-  <figure class="col-sm-5">
-    <h2><a href="heres.html">Heres Magazine</a></h2>
-    <img src="fotos/heres.JPG" >
+  <section class="container-fluid" >
+
+<div class="text">
+
+      <div class="row">
+
+  <figure class="col-md-offset-3 col-sm-4">
+  <!--  <img src="fotos/phase1.png" style="width:100%; height:100%">-->
+  <a href="land.html"><span id="forgot"> <img src="fotos/forgot.JPG"/></a></span>
+    <h4>[Infopoetry: Data visualization + design]</h4>
+    <p id="image"> <a href="land.html">Forgotten land</a></p>
 
   </figure>
-   <figure class="col-sm-5">
-     <h2><a href="coding.html">Creative Coding</a></h2>
-     <img src="fotos/code.png" >
+   <figure class="col-sm-4">
+    <!-- <img src="fotos/see.png" style="width:100%; height:100%">-->
+    <a href="https://densitydesign.github.io/teaching-dd15/course-results/es03/group02" style="text-decoration: none;" target="_blank"><span id="see" ><img src="fotos/seeu.png"/></span></a>
+    <h4>[New Narratives: web desing + coding + research]</h4>
+     <p id="image3">I see U</p>
 
-  </figure>
-</div>
-<div class="row">
-  <figure class="col-sm-5">
-    <h2><a href="lab.html">Demographics</a></h2>
-    <img src="fotos/demo.png" >
-
-  </figure>
-   <figure class="col-sm-5">
-     <h2><a href="presidents.html">Presidents</a></h2>
-     <img src="fotos/presidentes.png" >
 
   </figure>
 </div>
 <div class="row">
-  <figure class="col-sm-5">
-  <h2><a href="flights.html">My fligths</a></h2>
-  <img src="fotos/vuelos.png" >
+
+  <figure class="col-md-offset-3 col-sm-4">
+  <!--  <img src="fotos/drugtocracy.png" style="width:100%; height:100%">-->
+  <a href="border.html"><span id="drug" ><img src="fotos/border.png"/></a></span>
+  <h4>[Creative Coding: Design + Code]</h4>
+    <p id="image2"> <a href="border.html">Border friction</a></p>
+
   </figure>
-   <figure class="col-sm-5">
-     <h2><a href="drugtocracy.html">Drugtocracy</a></h2>
-     <img src="fotos/drugtocracy.png" >
+  <figure class=" col-sm-4">
+  <!--<img src="fotos/phase 2.png" style="width:100%; height:100%">-->
+    <a href="https://densitydesign.github.io/teaching-dd15/course-results/es02/group02" style="text-decoration: none;" target="_blank"><span id="eyes"><img src="fotos/phase 2.png"/></span></a>
+  <h4>[Research + Collect data + Data Visualization]</h4>
+<p id="image5">Invisible eyes</p>
+
   </figure>
+
 </div>
+<div class="row">
+
+   <figure class="col-md-offset-3 col-sm-4">
+    <!-- <img src="fotos/presis.png" style="width:100%; height:100%">-->
+    <a href="presidents.html"><span id="presis" ><img src="fotos/presis.png"/></span></a>
+    <h4>[Data analisys + Design + Data Visualization]</h4>
+    <p id="image4"> <a href="presidents.html">Presidents of the <br>European Parliament</a></p>
+
+  </figure>
+
+
+     <figure class="col-sm-4">
+       <!--<img src="fotos/flights.png" style="width:100%; height:100%">-->
+       <a href="https://densitydesign.github.io/teaching-dd15/course-results/es01/group02/" style="text-decoration: none;" target="_blank"><span id="nations" ><img src="fotos/phase1.png"/></span></a>
+       <h4>[Data analisys + Data Visualization]</h4>
+       <p id="image6">(Dis)United Nations <br>of the Internet</p>
+
+    </figure>
+  </div>
+    <div class="row">
+  <figure class="col-md-offset-3 col-sm-4">
+  <!--<img src="fotos/graph.png" style="width:100%; height:100%">-->
+  <a href="natio.html"><span id="neo" ><img src="fotos/neo.png"/></span></a>
+  <h4>[Research + Data Visualization]</h4>
+  <p id="image7"> Neo-Nationalism</p>
+
+  </figure>
+
+
+   <figure class="col-sm-4">
+     <!--<img src="fotos/heres.png" style="width:100%; height:100%">-->
+     <a href="heres.html"><span id="heres" ><img src="fotos/heres.png"/></span></a>
+     <h4>[Design + Writing + Research]</h4>
+     <p id="image8">Heres Magazine</p>
+
+  </figure>
+
+</div>
+  <!-- <div class="row">
+  //   <figure class="col-md-offset-3 col-sm-4">
+       <img src="fotos/code.png" style="width:100%; height:100%">
+      <span id="coding" ><img src="fotos/code.png"/></span>
+
+       <p id="image9">CREATIVE CODING</p>
+
+    </figure>
+</div> -->
 </section>
 
-<footer class="container">
+<footer class="container-fluid">
   	<div class="row">
-      <p class="col-sm-4">&copy; 2019 Cristina Pita da Veiga</p>
+      <p class="col-sm-4">&copy; 2020 Cristina PdV</p>
     </div>
+  </div>
+
   </footer>
 
 </body>
