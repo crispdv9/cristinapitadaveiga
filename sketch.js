@@ -61,4 +61,11 @@ $(document).ready(function() {
     $("#image9").mouseout(function(){
     $("#coding").hide();
     });
+
+    $("#image10").mouseover(function(){
+    $("#ae").show();
+    });
+    $("#image10").mouseout(function(){
+    $("#ae").hide();
+    });
 });
