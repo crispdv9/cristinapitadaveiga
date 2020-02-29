@@ -53,6 +53,9 @@ header h1 {
   padding-bottom: 1%;
   margin-left: 4%;
 }
+header h1:hover {
+color: yellow;
+}
 
 header nav {
   justify-content: flex-end;
