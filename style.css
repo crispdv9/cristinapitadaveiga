@@ -27,6 +27,7 @@ header h2 {
 }
 h2 a:hover {
   text-decoration: line-through;
+  color: black;
 
 }
 h2 a{
