@@ -68,4 +68,11 @@ $(document).ready(function() {
     $("#image10").mouseout(function(){
     $("#ae").hide();
     });
+
+    $("#image11").mouseover(function(){
+    $("#maps").show();
+    });
+    $("#image11").mouseout(function(){
+    $("#maps").hide();
+    });
 });

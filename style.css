@@ -336,3 +336,13 @@ padding-left: 5%;
 padding-top: 0;
 
 }
+#maps{
+  display:none;
+  position:absolute;
+align-items: top;
+width: 100%;
+height: 100%;
+padding-left: 5%;
+padding-top: 0;
+
+}
