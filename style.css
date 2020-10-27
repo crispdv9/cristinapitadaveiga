@@ -4,34 +4,41 @@
 body {
   font-family: 'Work Sans', sans-serif;
   font-weight: 600;
-  background-color:#f5f5dc;
+  background-color:#F4F4F4;
 
 }
 
 header {
   padding: 20px 0;
   font-family: 'Work Sans', sans-serif;
+  background-color:#F4F4F4;
+
 }
 
 
 header h2 {
   font-family: 'Work Sans', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   margin: 0;
-  font-size: 0.5em;
-  color: black;
+  font-size: 2vw;
+  text-align: center;
+  margin-top: 2%;
   text-align: left;
-  padding-left: 5%;
-  padding-top: 0;
-  margin-top: 0;
+  margin-bottom: 0%;
+  line-height: 12px;
+
+
 }
 h2 a:hover {
   text-decoration: line-through;
-  color: black;
+  color: #7990E5;
 
 }
 h2 a{
+  font-weight: 300;
   color:black;
+  font-size: 1.3em;
+  text-align: center;
 }
 
 
@@ -40,6 +47,7 @@ header .row,
 footer .row {
   display: flex;
   align-items: center;
+  background-color:#F4F4F4;
 
 }
 
@@ -47,14 +55,14 @@ footer .row {
 header h1 {
   margin: 0;
   font-size: 2em;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'DM Serif Text', serif;
   font-weight: 500;
   color: black;
   padding-bottom: 1%;
   margin-left: 4%;
 }
 header h1:hover {
-color: yellow;
+color: #7990E5;
 }
 
 header nav {
@@ -65,42 +73,52 @@ header nav {
 
 
 header p{
-  color: black;
+  color: #7990E5;
   font-style: italic;
   text-decoration: none;
   font-family: 'Work Sans', sans-serif;
-  margin-left: 4%;
+  margin-left: 8%;
   font-size: 1.1vw;
   font-weight: 100;
+  line-height: 0px;
+  margin-top:-0.2%;
+  margin-bottom: 1%
 }
 #about{
   font-size: 1vw;
   font-style: normal;
   align-items: right;
-  text-align: right;
+  text-align: left;
   font-weight: 400;
   font-family: 'Work Sans', sans-serif;
-
+  color:#7990E5;
+line-height: 4px;
 
 }
 .about{
   font-family: 'Work Sans', sans-serif;
+  background-color:#F4F4F4;
 
 }
 .about p:hover{
-text-decoration: none;
+text-decoration: none;  background-color:#F4F4F4;
+
 }
 .about a{
   text-decoration: underline;
   color: black;
+  background-color:#F4F4F4;
+
 }
 .about a:hover{
   text-decoration: line-through;
   color: black;
+
 }
 
 header p:hover{
 text-decoration: none;
+color: #7990E5;
 
 }
 
@@ -109,21 +127,30 @@ p a{
 
 }
  p a:hover {
-  color: yellow;
 }
 .contact p{
   cursor:pointer;
+  text-align: center;
+
 
 }
 .text p{
 padding-bottom: 8%;
+font-family: 'DM Serif Text', serif;
+
+}
+.text h2 {
+  font-size: 2vw;
+  color: #7990E5;
+  font-weight: bold;
+  margin-left: 110%;
 }
 
 .text p{
-  font-size: 1.6vw;
+  font-size: 2vw;
   font-weight: 500;
   cursor:pointer;
-  color: black;
+
 }
 .text p a{
   text-decoration: none;
@@ -145,6 +172,7 @@ padding-bottom: 8%;
 .text h4{
   font-size: 1vw;
   font-weight: 400;
+
 
 }
 hr {
@@ -212,6 +240,8 @@ footer p{
 footer .col-sm-8 {
   display: flex;
   justify-content: flex-end;
+  background-color:#F4F4F4;
+
 }
 p{
   width: auto;
@@ -230,6 +260,8 @@ p:hover{
 
 .container-fluid{
   align-items: center;
+  background-color:#F4F4F4;
+
 }
 
 #forgot{
