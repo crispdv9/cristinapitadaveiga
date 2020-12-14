@@ -99,6 +99,40 @@ header p{
 line-height: 2em;
 
 }
+.aboutabout{
+  text-decoration: underline;
+    text-decoration-color: #7990E5;
+  font-size: 1.5em;
+  align-items: right;
+  text-align: left;
+  font-weight: 400;
+  font-family: 'Work Sans', sans-serif;
+  color:black;
+line-height: 2em;
+
+}
+.aboutcontact{
+  font-size: 1.5em;
+  font-style: normal;
+  align-items: center;
+  text-align: center;
+  font-weight: 400;
+  font-family: 'Work Sans', sans-serif;
+  color:black;
+line-height: 2em;
+text-decoration: none;
+}
+
+.aboutcontact p:hover{
+  color:#7990E5;
+  text-decoration: none;
+
+}
+.aboutabout p:hover{
+  color:#7990E5;
+text-decoration: none;
+}
+
 .about{
   font-family: 'Work Sans', sans-serif;
   background-color:#F4F4F4;
