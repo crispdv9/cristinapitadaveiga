@@ -75,4 +75,10 @@ $(document).ready(function() {
     $("#image11").mouseout(function(){
     $("#maps").hide();
     });
+    $("#image12").mouseover(function(){
+    $("#tesis").show();
+    });
+    $("#image12").mouseout(function(){
+    $("#tesis").hide();
+    });
 });
