@@ -640,4 +640,8 @@ z-index: 1;
   #mainpage p{
     font-size: 0.5em;
   }
+  .text{
+    margin-top:5%;
+
+  }
 }
