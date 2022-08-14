@@ -631,17 +631,17 @@ z-index: 1;
   align-items: center;
     z-index: 1;
 }
-@media (max-width: 480px) {
-  #mainpage h2{
-    font-size: 1em;
+@media (max-width: 400px) {
+  .mainpage h2{
+    font-size: 0.5em;
     line-height: 28px;
   }
 
-  #mainpage p{
-    font-size: 0.5em;
+  .mainpage p{
+    font-size: 0.2em;
   }
-  .text{
-    margin-top:5%;
+  .mainpage{
+    margin-bottom:5%;
 
   }
 }
