@@ -633,15 +633,12 @@ z-index: 1;
 }
 @media (max-width: 400px) {
   .mainpage h2{
-    font-size: 0.5em;
+    font-size: 2em;
     line-height: 28px;
   }
 
   .mainpage p{
-    font-size: 0.2em;
+    font-size: 1em;
   }
-  .mainpage{
-    margin-bottom:5%;
 
-  }
 }
