@@ -633,7 +633,7 @@ z-index: 1;
 }
 
 #calles:hover{
-  
+
 }
 @media (max-width: 400px) {
 
@@ -648,7 +648,7 @@ z-index: 1;
 
   .mainpage p{
     font-size: 1.5em;
-    padding-bottom:5%;
+    padding-bottom:20%;
   }
 
 }
