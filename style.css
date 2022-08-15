@@ -145,7 +145,7 @@ margin-left: 10%;
   font-weight: 400;
   font-family: 'Work Sans', sans-serif;
   color:black;
-line-height: 2em;
+  line-height: 2em;
 padding-top: 5%;
 
 
@@ -199,6 +199,10 @@ a{
 
 .text a:hover {
 color: #C4C8EC;
+}
+
+.text .row img{
+margin-left: 0;
 }
 
 .text a {
