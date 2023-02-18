@@ -135,9 +135,28 @@ font-weight: 300;
   color:black;
 line-height: 2em;
 margin-left: 5%;
-
-
 }
+
+.arrow {
+  z-index: 1;
+  animation-name: arrow;
+  display: block;
+  animation: arrow 3s infinite;
+  margin-top: 1%;
+}
+
+@keyframes arrow {
+  0% {
+      opacity: 1;
+  }
+
+  100% {
+      opacity: 0;
+      transform: translate(0px, 50px)
+  }
+}
+
+
 .aboutabout{
     text-decoration-color: #7990E5;
   font-size: 1.1em;
@@ -313,12 +332,20 @@ footer .col-sm-8 {
 
 }
 
+ .tesis-gif img{
+  margin-top:20%!important;
+  margin-left: 0!important;
+    width: 80%!important;
+}
+
+
 
 .mainpage{
-  height: 100vh;
+ /* height: 100vh;*/
   margin-top:8%;
   margin-left:4%;
   width: 60%;
+  margin-bottom:20%;
 }
 
 .mainpage a:hover {
