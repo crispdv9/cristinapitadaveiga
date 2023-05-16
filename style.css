@@ -62,6 +62,8 @@ header #about{
 
 .about a {
   color:#C4C8EC;
+  font-size: 1.1em;
+
 }
 
 /*header p {
@@ -76,6 +78,8 @@ header #about{
 */
 header a:hover {
 color: #C4C8EC;
+font-size: 1.1em;
+
 }
 
 
@@ -122,6 +126,10 @@ font-weight: 300;
 margin-bottom: 2%;
 font-family: 'Work Sans', sans-serif;
 font-weight: 300;
+font-size: 1.1em;
+line-height: 2em;
+
+
 
 }
 
@@ -169,6 +177,11 @@ padding-top: 5%;
 
 
 }
+.aboutabout a{
+color:#7B88E8;
+}
+
+
 .aboutabout p{
   padding-top: 5%;
   font-size: 1.1em;
@@ -177,6 +190,16 @@ padding-top: 5%;
 .aboutabout h2{
   font-size: 1.2em;
   color:#7990E5;
+}
+
+.about1{
+  text-decoration-color: #7990E5;
+  font-size: 1.1em;
+  font-weight: 400;
+  font-family: 'Work Sans', sans-serif;
+  color:black;
+  line-height: 2em;
+padding-top: 5%;
 }
 
 .aboutcontact{
@@ -333,9 +356,18 @@ footer .col-sm-8 {
 }
 
 .tesis-gif img{
-  margin-top:20%!important;
+  margin-top:10%!important;
+  margin-bottom:10%!important;
+
   margin-left: 0!important;
-    width: 80%!important;
+    width: 100%!important;
+
+}
+
+.tesis-gif:first-child{
+  width: 80%!important;
+  margin:0 auto;
+
 }
 
 
