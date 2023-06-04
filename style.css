@@ -120,7 +120,7 @@ header p{
 height: 5%;
 z-index:999;
 font-weight: 300;
-
+margin-top: 5%;
 }
 .about p{
 margin-bottom: 2%;
@@ -694,9 +694,251 @@ z-index: 1;
     z-index: 1;
 }
 
-#calles:hover{
+
+#image17:hover{
+  position: relative;
+  z-index:2;
 
 }
+
+#image17:hover:after {
+  content: url('fotos/rios.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 56px; /* change this value to one that suits you */
+}
+
+#image24:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image24:hover:after{
+  content: url('fotos/guerra.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+
+
+#image26:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image26:hover:after{
+  content: url('fotos/ilustracion.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+
+#image27:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image27:hover:after{
+  content: url('fotos/reina.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+
+#image15:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image15:hover:after{
+  content: url('fotos/nobel2.png'); /* no need for qoutes */
+  display: block;
+  margin-top:-30%;
+
+  position: absolute;
+  left: 123px; /* change this value to one that suits you */
+  top: 56px; /* change this value to one that suits you */
+}
+
+#image3:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image3:hover:after{
+  content: url('fotos/isee.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+
+#image5:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image5:hover:after{
+  content: url('fotos/thesis.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 56px; /* change this value to one that suits you */
+}
+
+#image05:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image05:hover:after{
+  content: url('fotos/invisible.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+
+#image20:hover{
+  position: relative;
+  z-index:2;
+
+
+}
+
+#image20:hover:after{
+  content: url('fotos/coches2.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+
+
+#image23:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image23:hover:after{
+  content: url('fotos/calles2.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+
+#image22:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image22:hover:after{
+  content: url('fotos/vacunas.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+
+#image18:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image18:hover:after{
+  content: url('fotos/mapa_calles.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 56px; /* change this value to one that suits you */
+}
+
+#image16:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image16:hover:after{
+  content: url('fotos/lava.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+#image2:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image2:hover:after{
+  content: url('fotos/poster.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+
+#image21:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image21:hover:after{
+  content: url('fotos/racismo2.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+
+
+
 @media (max-width: 400px) {
 
   .about a {
