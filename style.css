@@ -702,7 +702,7 @@ z-index: 1;
 }
 
 #image17:hover:after {
-  content: url('fotos/rios.png'); /* no need for qoutes */
+  content: url('fotos/rios_3.png'); /* no need for qoutes */
   display: block;
   position: absolute;
   margin-top:-30%;
