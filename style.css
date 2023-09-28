@@ -938,6 +938,24 @@ z-index: 1;
 }
 
 
+#image28:hover{
+  position: relative;
+  z-index:2;
+
+}
+
+#image28:hover:after{
+  content: url('fotos/gas.png'); /* no need for qoutes */
+  display: block;
+  position: absolute;
+  margin-top:-30%;
+
+  left: 123px; /* change this value to one that suits you */
+  top: 5px; /* change this value to one that suits you */
+}
+
+
+
 
 @media (max-width: 400px) {
 
