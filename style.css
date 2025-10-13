@@ -61,11 +61,14 @@ header #about{
 }
 
 .about a {
-  color:#C4C8EC;
+  color:#B2B7E6;
   font-size: 1.1em;
 
 }
 
+.padding{
+  padding-top: 20%;
+}
 /*header p {
   margin: 0;
   font-size: 1.3em;
@@ -77,7 +80,7 @@ header #about{
 }
 */
 header a:hover {
-color: #C4C8EC;
+color: #B2B7E6;
 font-size: 1.1em;
 
 }
@@ -93,7 +96,7 @@ overflow: hidden;
   background-color:#ffffff;
   padding-top: 2%;
   padding-top: 1%;
-  border-bottom:1px solid #C4C8EC;
+  border-bottom:1px solid #B2B7E6;
   z-index: 1;
 }
 
@@ -115,7 +118,7 @@ header p{
 
 }
 .about{
-  border-bottom:1px solid #C4C8EC;
+  border-bottom:1px solid #B2B7E6;
   border-bottom-style: dotted;
 height: 5%;
 z-index:999;
@@ -240,7 +243,7 @@ a{
 }
 
 .text a:hover {
-color: #C4C8EC;
+color: #B2B7E6;
 }
 
 .text .row img{
@@ -248,7 +251,7 @@ margin-left: 0;
 }
 
 .text a {
-color: #C4C8EC;
+color: #B2B7E6;
 margin-top: 0;
 }
 
@@ -272,7 +275,7 @@ font-size: 1.2em;
 .text h2 {
   font-size: 1.5em;
   font-family: 'Work Sans', sans-serif;
-  color: #C4C8EC;
+  color: #B2B7E6;
 
 }
 
@@ -291,11 +294,11 @@ font-size: 1.2em;
 
 
 .other a{
-  color: #C4C8EC;
+  color: #B2B7E6;
 }
 
 .other a:hover {
-color: #C4C8EC;
+color: #B2B7E6;
 }
 
 
@@ -381,7 +384,7 @@ footer .col-sm-8 {
 }
 
 .mainpage a:hover {
-color: #C4C8EC;
+color: #B2B7E6;
 }
 
   .mainpage h2{
@@ -401,7 +404,7 @@ margin-top:5%;
 
 .mainpage a{
 
-color:#C4C8EC;
+color:#B2B7E6;
 }
 
 #mapacampaña{
