@@ -705,13 +705,13 @@ z-index: 1;
 }
 
 #image17:hover:after {
-  content: url('fotos/rios_3.png'); /* no need for qoutes */
+  content: url('fotos/rios_3.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 56px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 56px; 
 }
 
 #image24:hover{
@@ -721,13 +721,13 @@ z-index: 1;
 }
 
 #image24:hover:after{
-  content: url('fotos/guerra.png'); /* no need for qoutes */
+  content: url('fotos/guerra.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px; 
 }
 
 
@@ -738,13 +738,13 @@ z-index: 1;
 }
 
 #image26:hover:after{
-  content: url('fotos/ilustracion.png'); /* no need for qoutes */
+  content: url('fotos/ilustracion.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px; 
 }
 
 #image27:hover{
@@ -754,13 +754,13 @@ z-index: 1;
 }
 
 #image27:hover:after{
-  content: url('fotos/reina.png'); /* no need for qoutes */
+  content: url('fotos/reina.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px; 
 }
 
 #image15:hover{
@@ -770,13 +770,13 @@ z-index: 1;
 }
 
 #image15:hover:after{
-  content: url('fotos/nobel2.png'); /* no need for qoutes */
+  content: url('fotos/nobel2.png'); 
   display: block;
   margin-top:-30%;
 
   position: absolute;
-  left: 123px; /* change this value to one that suits you */
-  top: 56px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 56px; 
 }
 
 #image3:hover{
@@ -786,13 +786,13 @@ z-index: 1;
 }
 
 #image3:hover:after{
-  content: url('fotos/isee.png'); /* no need for qoutes */
+  content: url('fotos/isee.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px; 
 }
 
 #image5:hover{
@@ -802,13 +802,13 @@ z-index: 1;
 }
 
 #image5:hover:after{
-  content: url('fotos/thesis.png'); /* no need for qoutes */
+  content: url('fotos/thesis.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 56px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 56px; 
 }
 
 #image05:hover{
@@ -818,13 +818,13 @@ z-index: 1;
 }
 
 #image05:hover:after{
-  content: url('fotos/invisible.png'); /* no need for qoutes */
+  content: url('fotos/invisible.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px; 
 }
 
 #image20:hover{
@@ -835,13 +835,13 @@ z-index: 1;
 }
 
 #image20:hover:after{
-  content: url('fotos/coches2.png'); /* no need for qoutes */
+  content: url('fotos/coches2.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px; 
 }
 
 
@@ -852,13 +852,13 @@ z-index: 1;
 }
 
 #image23:hover:after{
-  content: url('fotos/calles2.png'); /* no need for qoutes */
+  content: url('fotos/calles2.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px;
 }
 
 #image22:hover{
@@ -868,13 +868,13 @@ z-index: 1;
 }
 
 #image22:hover:after{
-  content: url('fotos/vacunas.png'); /* no need for qoutes */
+  content: url('fotos/vacunas.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px; 
 }
 
 #image18:hover{
@@ -884,13 +884,13 @@ z-index: 1;
 }
 
 #image18:hover:after{
-  content: url('fotos/mapa_calles.png'); /* no need for qoutes */
+  content: url('fotos/mapa_calles.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 56px; /* change this value to one that suits you */
+  left: 123px;
+  top: 56px; 
 }
 
 #image16:hover{
@@ -900,13 +900,13 @@ z-index: 1;
 }
 
 #image16:hover:after{
-  content: url('fotos/lava.png'); /* no need for qoutes */
+  content: url('fotos/lava.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px; 
 }
 #image2:hover{
   position: relative;
@@ -915,13 +915,13 @@ z-index: 1;
 }
 
 #image2:hover:after{
-  content: url('fotos/poster.png'); /* no need for qoutes */
+  content: url('fotos/poster.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px; 
 }
 
 #image21:hover{
@@ -931,13 +931,13 @@ z-index: 1;
 }
 
 #image21:hover:after{
-  content: url('fotos/racismo2.png'); /* no need for qoutes */
+  content: url('fotos/racismo2.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px; 
 }
 
 
@@ -948,13 +948,13 @@ z-index: 1;
 }
 
 #image28:hover:after{
-  content: url('fotos/gas.png'); /* no need for qoutes */
+  content: url('fotos/gas.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px; 
+  top: 5px; 
 }
 
 #image25:hover{
@@ -964,13 +964,13 @@ z-index: 1;
 }
 
 #image25:hover:after{
-  content: url('fotos/img_soyuz.png'); /* no need for qoutes */
+  content: url('fotos/img_soyuz.png'); 
   display: block;
   position: absolute;
   margin-top:-30%;
 
-  left: 123px; /* change this value to one that suits you */
-  top: 5px; /* change this value to one that suits you */
+  left: 123px;
+  top: 5px; 
 }
 
 
